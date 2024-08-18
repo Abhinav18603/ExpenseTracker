@@ -26,5 +26,4 @@ Usage:
 --> View Summary: Check the total income and expenses displayed on the dashboard.
 
 Contact:
-Email - abhinavkrsingh12@gmail.com
-GitHub - your-username
+GitHub - Abhinav18603
